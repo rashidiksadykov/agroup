@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "description": "My PWA Description",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "download.honeygain",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "download.honeygain",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "ru",
+  "display_override": [
+    "browser",
+    "fullscreen",
+    "minimal-ui",
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "prefer_related_applications": true
+}
